@@ -1,0 +1,8 @@
+<Customer>
+  <name>Mary</name>
+  <age>37</age>
+  <address>
+    <street>NANTERRE CT</street>
+    <postcode>77471</postcode>
+  </address>
+</Customer>
